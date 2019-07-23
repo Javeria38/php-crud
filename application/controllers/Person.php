@@ -138,5 +138,4 @@ class Person extends CI_Controller {
 			exit();
 		}
 	}
-function test(){}
 }
